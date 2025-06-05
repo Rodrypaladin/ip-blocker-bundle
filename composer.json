@@ -1,5 +1,5 @@
 {
-  "name": "Rodrypaladin/ip-blocker-bundle",
+  "name": "rodrypaladin/ip-blocker-bundle",
   "type": "symfony-bundle",
   "description": "IP address blocking package for a Symfony website",
   "license": "MIT",
